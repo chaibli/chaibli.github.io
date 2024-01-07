@@ -13,4 +13,13 @@ I am a second-year M.S. student from the School of Computer Science at Sun Yat-s
 
 My current research focuses on optimizing the multimedia communication with machine learning. I have a passion for all kinds of sports, especially tennis, swimming and fitness. 
 
-## Research Interests
+# Research Interests
+My research interests include:
+* Mobile/Edge/Cloud Computing
+* Video Transmission/Analysis
+* System Optimization
+* Machine Learning
+
+# Education
+* M.S. in Computer Science, Sun Yat-sen University,  2022 - Present
+* B.E. in Computer Science, Sun Yat-sen University, 2018 - 2022
