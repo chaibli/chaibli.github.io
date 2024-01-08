@@ -7,5 +7,8 @@ date: 2023-02-22
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), CCF-A'
 ---
 
-<!-- ![avatar](/chaibli.github.io/publications/foo-bar-identity-th.jpg) -->
+![avatar](/chaibli.github.io/publications/2023-02-22-paper-title-number-1.jpg)
+
+![avatar](2023-02-22-paper-title-number-1.jpg)
+
 <img src="https://github.com/chaibli/chaibli.github.io/blob/main/publications/foo-bar-identity-th.jpg" width="50%">
