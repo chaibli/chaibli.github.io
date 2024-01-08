@@ -7,4 +7,4 @@ date: 2023-02-22
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), CCF-A'
 ---
 
-![avatar](http://github.com/chaibli/chaibli.github.io/blob/main/images/editing-talk.png)
+![avatar](https://github.com/chaibli/chaibli.github.io/blob/main/images/editing-talk.png)
