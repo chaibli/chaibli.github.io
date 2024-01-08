@@ -6,3 +6,5 @@ excerpt: 'Zhenxiao Luo, __Baili Chai__, Zelong Wang, Miao Hu, Di Wu'
 date: 2023-02-22
 venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), CCF-A'
 ---
+
+![avatar](http://github.com/chaibli/chaibli.github.io/blob/main/images/editing-talk.png)
