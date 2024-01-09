@@ -47,4 +47,4 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 <img src="https://github.com/chaibli/chaibli.github.io/blob/main/images/foo-bar-identity-th.jpg" width="50%">
 
-[Imgur](https://i.imgur.com/v6hqtH7.png)
+![Imgur](https://i.imgur.com/v6hqtH7.png)
