@@ -38,13 +38,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
    1. 更改 /_publications 文件夹，向里面加入文件，文件名必须是 yyyy-mm-dd-paper-title-number-(1).md的形式，publications会自动添加记录
    2. 里面内容中的 permalink 设置为 /publication/文件名（不用.md）即可，跳转后进入的内容在该文件的md 中编写
    3. 有时候浏览器会有缓存，导致你修改了以后还是以前的设置，需要清空一下缓存
-   
-![avatar](/chaibli.github.io/images/2023-02-22-paper-title-number-1.jpg)
 
-![avatar](2023-02-22-paper-title-number-1.jpg)
+5. 插入图片，可以参考[issue](https://github.com/academicpages/academicpages.github.io/issues/140)，用这个插入图片需要第三方图床，我用的是[imgur](https://monaco12138.imgur.com/all)，上传到上面后选择image浏览模式导出图片的url后添加即可，直接传到github上会加载不出来。这一点还是挺麻烦的，要引入第三方来管理图片
 
-![avatar](https://github.com/chaibli/chaibli.github.io/blob/main/images/foo-bar-identity-th.jpg)
-
-<img src="https://github.com/chaibli/chaibli.github.io/blob/main/images/foo-bar-identity-th.jpg" width="50%">
-
-![Imgur](https://i.imgur.com/v6hqtH7.png)
+   <img src="https://i.imgur.com/v6hqtH7.png" width="50%">
