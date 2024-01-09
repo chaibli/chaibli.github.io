@@ -44,3 +44,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
    <img src="https://i.imgur.com/v6hqtH7.png" width="50%">
 
 6. CV 在 /_pages/cv.md 中更改
+7. Blogs 在/_posts/ 中添加md即可
+   1. 文件名最好保持一致 yyyy-mm-dd-blog-post-(1).md，blogs会自动记录
+   2. 里面的内容 permalink 设置为/posts/yyyy/mm/blog-post-(1)/ 的形式即可，跳转后的内容在该文件的md中编写
+   3. tags添加可以用中文做记号
