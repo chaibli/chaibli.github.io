@@ -14,3 +14,5 @@ venue: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), CCF-A'
 ![avatar](https://github.com/chaibli/chaibli.github.io/blob/main/images/foo-bar-identity-th.jpg)
 
 <img src="https://github.com/chaibli/chaibli.github.io/blob/main/images/foo-bar-identity-th.jpg" width="50%">
+
+[Imgur](https://i.imgur.com/v6hqtH7.png)
