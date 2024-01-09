@@ -42,3 +42,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 5. 插入图片，可以参考[issue](https://github.com/academicpages/academicpages.github.io/issues/140)，用这个插入图片需要第三方图床，我用的是[imgur](https://monaco12138.imgur.com/all)，上传到上面后选择image浏览模式导出图片的url后添加即可，直接传到github上会加载不出来。这一点还是挺麻烦的，要引入第三方来管理图片
 
    <img src="https://i.imgur.com/v6hqtH7.png" width="50%">
+
+6. CV 在 /_pages/cv.md 中更改
