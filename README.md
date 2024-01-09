@@ -38,3 +38,11 @@ To support this, all changes to the underlying code appear as a closed issue wit
    1. 更改 /_publications 文件夹，向里面加入文件，文件名必须是 yyyy-mm-dd-paper-title-number-(1).md的形式，publications会自动添加记录
    2. 里面内容中的 permalink 设置为 /publication/文件名（不用.md）即可，跳转后进入的内容在该文件的md 中编写
    3. 有时候浏览器会有缓存，导致你修改了以后还是以前的设置，需要清空一下缓存
+   
+![avatar](/chaibli.github.io/publications/2023-02-22-paper-title-number-1.jpg)
+
+![avatar](2023-02-22-paper-title-number-1.jpg)
+
+![avatar](https://github.com/chaibli/chaibli.github.io/blob/main/publications/foo-bar-identity-th.jpg)
+
+<img src="https://github.com/chaibli/chaibli.github.io/blob/main/publications/foo-bar-identity-th.jpg" width="50%">
